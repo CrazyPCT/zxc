@@ -281,12 +281,12 @@ function UI.Init()
         end    
     })
     
-    Cola_Tab:AddLabel("WIP")
-    Automatic_Tab:AddLabel("WIP")
-    Grappler_Tab:AddLabel("WIP")
-    Paraglider_Tab:AddLabel("WIP")
-    Wingsuit_Tab:AddLabel("WIP")
-    Audio_Tab:AddLabel("WIP")
+    Cola_Tab:AddLabel("no")
+    Automatic_Tab:AddLabel("no")
+    Grappler_Tab:AddLabel("no")
+    Paraglider_Tab:AddLabel("no")
+    Wingsuit_Tab:AddLabel("no")
+    Audio_Tab:AddLabel("no")
 
     Library.Init()
 end
